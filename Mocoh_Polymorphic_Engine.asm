@@ -12,7 +12,7 @@
 ;
 ; By: SWaNk 2019 - Back in business, VX forever!
 ;
-;https://pt.wikipedia.org/wiki/Mocó (Kerodon rupestris)
+;https://pt.wikipedia.org/wiki/MocÃ³ (Kerodon rupestris)
 
 format PE GUI 4.0
 entry start
