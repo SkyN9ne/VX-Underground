@@ -1,5 +1,5 @@
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-; Fake EP trick
+; Fake EP Trick
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ; The idea is simple: After loading our program, we change the loaded PE image entry point 
 ; dynamically to another routine inside our code (In this example is a simple messagebox).
